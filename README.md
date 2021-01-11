@@ -1,4 +1,4 @@
-# Luiz Fernando 👋
+# Luiz Fernando
 
 Olá, tenho 18 anos e sou um jovem padawan na área de Ciência de Dados. Graduando em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba.
 
