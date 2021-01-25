@@ -1,10 +1,9 @@
-# Luiz Fernando
 
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEHt-e3bpfLLQ/profile-displaybackgroundimage-shrink_200_800/0/1607656228729?e=1617235200&v=beta&t=dZTWIwB_Lc2BYqxVIUQrwjSfzyuoifTqOvhV7ZLV9O4" >
 </p>
 
-
+# Luiz Fernando
 
 * Olá, tenho 18 anos e sou um jovem padawan na área de Ciência de Dados. 
 * Graduando em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba. 
