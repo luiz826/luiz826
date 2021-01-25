@@ -1,5 +1,7 @@
 
 # **"Hello, World!"**
+
+<sub>Antes de começar, deixe-me fazer algumas importações</sub>
 <p>
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEHt-e3bpfLLQ/profile-displaybackgroundimage-shrink_200_800/0/1607656228729?e=1617235200&v=beta&t=dZTWIwB_Lc2BYqxVIUQrwjSfzyuoifTqOvhV7ZLV9O4" >
 </p>
