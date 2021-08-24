@@ -14,9 +14,9 @@
 
 - 19 years
 
-- Artificial Inteliggence and Data Scientis Student at UFPB
+- [Artificial Inteliggence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
-- HCIA-AI Huawei Certificated; 
+- HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated; 
 
 <center> 
 
@@ -27,7 +27,7 @@
 </center>
 
 
-I was monitor of the Training Course for the HCIA AI **Huawei** 3.0 Certification during 6 months in 2021,I am currently a research student at the **Technology and Artificial Intelligence League (TAIL)** in the **UFPB** and work in a research project that involves the partnership between LASER and LAGID (CCSA) with the company **MGITech**. The project involves Business Intelligence and Business Analytics.
+I was monitor of the Training Course for the HCIA AI [Huawei](https://www.huawei.com/br/) 3.0 Certification during 6 months in 2021,I am currently a research student at the **Technology and Artificial Intelligence League** ([TAIL](https://aria.ci.ufpb.br/tail/)) in the [UFPB](https://www.ufpb.br/) and work in a research project that involves the partnership between [LASER](https://laser.ci.ufpb.br/) and [LAGID (CCSA)](https://www.instagram.com/lagid.ufpb/) with the company [MGITech](https://www.mgitech.com.br/). The project involves Business Intelligence and Business Analytics.
 
 
 For the future, I have an interest in the area of Data Science or Artifical Intelligence, with a focus on Deep Learning.
