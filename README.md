@@ -25,13 +25,13 @@
 
 </center>
 
-### AI Research - [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) - [Huawei](https://www.huawei.com/br/), [UFPB](https://www.ufpb.br/) and [Embrappi](https://embrapii.org.br/) - Feb 2022–Present
+### ***AI and Photovoltaic Researcher*** - [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) - [Huawei](https://www.huawei.com/br/), [UFPB](https://www.ufpb.br/) and [Embrappi](https://embrapii.org.br/) - Feb 2022–Present
 
 - Research about the state of the art
 - Use deep learning and optimization techniques to maximize the production of the photovoltaic energy
 - Embed the solution on Atlas200 DK
  
-###  Data Scientist Research - [MGITech](https://www.mgitech.com.br/) and [UFPB](https://www.ufpb.br/) - Aug 2021–Present
+### ***Data Scientist Researcher*** - [MGITech](https://www.mgitech.com.br/) and [UFPB](https://www.ufpb.br/) - Aug 2021–Present
 
 - Extraction of data from the database for cleaning and application of
 techniques
@@ -39,16 +39,22 @@ techniques
 - Dashboards for Business presentations
 - Finding insights from the data, by applying statistics techniques
 
-### Cloud AI Training PB - [Huawei](https://www.huawei.com/br/) 3.0 Certification - [Huawei](https://www.huawei.com/br/) and [UFPB](https://www.ufpb.br/) - Feb 2021-Aug-2021
+### ***Cloud AI Training PB*** - [Huawei](https://www.huawei.com/br/) 3.0 Certification - [Huawei](https://www.huawei.com/br/) and [UFPB](https://www.ufpb.br/) - Feb 2021-Aug-2021
 
 - Huawei Artificial Intelligence Certification Course Monitoring
 - Resolve student queries
 - Weekly meetings to help resolve issues
 - Helping teachers, individual reports for each student
 
+### ***AI Researcher*** - [TAIL](https://aria.ci.ufpb.br/tail/) - Feb 2021 - Present
+
+- Research about the many areas in AI
+- Share knowledge with more experience people in the AI area
+- Develop hands-on projects about some area of AI
+
 --- 
 
-I was monitor of the Training Course for the HCIA AI [Huawei](https://www.huawei.com/br/) 3.0 Certification during 6 months in 2021,I am currently a research student at the **Technology and Artificial Intelligence League** ([TAIL](https://aria.ci.ufpb.br/tail/)) in the [UFPB](https://www.ufpb.br/), work in a research project that involves the partnership between [LASER](https://laser.ci.ufpb.br/) and [LAGID (CCSA)](https://www.instagram.com/lagid.ufpb/) with the company [MGITech](https://www.mgitech.com.br/) and now I'm AI Research of the project [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) in [Embrappi](https://embrapii.org.br/) and [UFPB](https://www.ufpb.br/).
+I was monitor of the Training Course for the HCIA AI [Huawei](https://www.huawei.com/br/) 3.0 Certification during 6 months in 2021,I am currently a research student at the **Technology and Artificial Intelligence League** ([TAIL](https://aria.ci.ufpb.br/tail/)) in the [UFPB](https://www.ufpb.br/), work in a research project that involves the partnership between [LASER](https://laser.ci.ufpb.br/) and [LAGID (CCSA)](https://www.instagram.com/lagid.ufpb/) with the company [MGITech](https://www.mgitech.com.br/) and now I'm AI Researcher of the project [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) in [Embrappi](https://embrapii.org.br/) and [UFPB](https://www.ufpb.br/) partnership project.
 
 For the future, I have an interest in the area of Data Science or Artifical Intelligence, with a focus on Deep Learning.
 
