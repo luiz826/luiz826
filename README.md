@@ -74,6 +74,12 @@ For the future, I have an interest in the area of Data Science or Artifical Inte
 
 </center>
 
+ - [Music Genre Prediction model, using RoBERTa](https://huggingface.co/luiz826/roberta-to-music-genre) This project was developed at TAIL (Technology and Artificial Intelligence League) in the NLP directory. The goal is to get a lyric as an input and get back the genre of that song. The methodology was: used the pre-trained model RoBERTa, fine-tunning the parameters with a dataset of lyrics and genres, and them deploy in HuggingFace repository. We get an 81% accuracy with a very tiny dataset (approximately 5000 instances), so we considered a good job.  
+
+ - [An Introduction to the Data Science world. A DataViz and Data Analisys project](https://www.kaggle.com/caiochacon/an-introduction-to-data-science-world) Every year kaggle does this competition were they give to us data about a research made with data scientists, so we made a jupyter notebook with some insight about all this data.
+
+- [A fan game of Pokemon, in C++](https://github.com/luiz826/Projeto-POO-2) This is a simplicated version of the battles in Pokemon game. We use C++ and OPP to create all the logics and made a very fun game to play. 
+ 
 - [A Introduction to the DataScience World](https://www.kaggle.com/caiochacon/an-introduction-to-data-science-world) This project was developed as a competition application for the data science website Kaggle. It analyzes, in narrative form, the profile of the data scientist in 2020, in addition to tips on how to start studies for the area, based on data. It was done in partnership.
 
 - [Word cloud of songs by Legião Urbana, deployed by Streamlit](https://share.streamlit.io/luiz826/site_nuvemdepalavraslu/main): The band Legião Urbana was/is very successful in the Brazilian territory, largely because of their unforgettable lyrics. So I developed a website that generates word clouds for each song of the band.
