@@ -14,7 +14,7 @@
 
 - 20 years
 
-- [Artificial Inteliggence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
+- [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
 - HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated; 
 
