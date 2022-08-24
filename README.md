@@ -101,6 +101,8 @@ For the future, I have an interest in the area of Data Science or Artifical Inte
 
 </center>
 
+- [Automated narration for soccer games using computer vision](https://www.youtube.com/playlist?list=PLn7QUs7c_AV5KJH9sYyD-pEElfQd2kfSx) This project was developed at TAIL (Technology and Artificial Intelligence League) in the Computer Vision directory. The methodology used was to first detect players, ball and goal using YOLOV5 and then detect the color of each team to distinguish them, with that, we can detect which team has the ball and when a goal happens, for example. All this was done only with computer vision, and no other information (only the name of the teams).
+ 
  - [Music Genre Prediction model, using RoBERTa](https://huggingface.co/luiz826/roberta-to-music-genre) This project was developed at TAIL (Technology and Artificial Intelligence League) in the NLP directory. The goal is to get a lyric as an input and get back the genre of that song. The methodology was: used the pre-trained model RoBERTa, fine-tunning the parameters with a dataset of lyrics and genres, and them deploy in HuggingFace repository. We get an 81% accuracy with a very tiny dataset (approximately 5000 instances), so we considered a good job.  
 
  - [An Introduction to the Data Science world. A DataViz and Data Analisys project](https://www.kaggle.com/caiochacon/an-introduction-to-data-science-world) Every year kaggle does this competition were they give to us data about a research made with data scientists, so we made a jupyter notebook with some insight about all this data.
