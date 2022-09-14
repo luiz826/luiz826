@@ -18,8 +18,6 @@
 
 - HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated;
 
-- **Data Science Intern** at [Nubank](https://nubank.com.br/pedir/nu/)
-
 <center> 
 
 ---
@@ -27,13 +25,15 @@
 
 </center>
 
-### ***AI and Photovoltaic Researcher*** - [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) - [Huawei](https://www.huawei.com/br/), [UFPB](https://www.ufpb.br/) and [Embrappi](https://embrapii.org.br/) - Feb 2022–Present
+### ***Data Science Intern at [Nubank](https://nubank.com.br/pedir/nu/)*** - Sep 2022-Present
+
+### ***AI and Photovoltaic Researcher*** - [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) - [Huawei](https://www.huawei.com/br/), [UFPB](https://www.ufpb.br/) and [Embrappi](https://embrapii.org.br/) - Feb 2022–Aug 2022
 
 - Research about the state of the art
 - Use deep learning and optimization techniques to maximize the production of the photovoltaic energy
 - Embed the solution on Atlas200 DK
  
-### ***Data Scientist Researcher*** - [MGITech](https://www.mgitech.com.br/) and [UFPB](https://www.ufpb.br/) - Aug 2021–Present
+### ***Data Scientist Researcher*** - [MGITech](https://www.mgitech.com.br/) and [UFPB](https://www.ufpb.br/) - Aug 2021–Aug 2022
 
 - Extraction of data from the database for cleaning and application of
 techniques
