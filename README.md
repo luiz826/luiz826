@@ -16,7 +16,9 @@
 
 - [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
-- HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated; 
+- HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated;
+
+- **Data Science Intern** at [Nubank](https://nubank.com.br/pedir/nu/)
 
 <center> 
 
@@ -54,9 +56,9 @@ techniques
 
 --- 
 
-I was monitor of the Training Course for the HCIA AI [Huawei](https://www.huawei.com/br/) 3.0 Certification during 6 months in 2021,I am currently a research student at the **Technology and Artificial Intelligence League** ([TAIL](https://aria.ci.ufpb.br/tail/)) in the [UFPB](https://www.ufpb.br/), work in a research project that involves the partnership between [LASER](https://laser.ci.ufpb.br/) and [LAGID (CCSA)](https://www.instagram.com/lagid.ufpb/) with the company [MGITech](https://www.mgitech.com.br/) and now I'm AI Researcher of the project [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) in [Embrappi](https://embrapii.org.br/) and [UFPB](https://www.ufpb.br/) partnership project.
+I was monitor of the Training Course for the HCIA AI [Huawei](https://www.huawei.com/br/) 3.0 Certification during 6 months in 2021; I worked in a research project that involves the partnership between [LASER](https://laser.ci.ufpb.br/) and [LAGID (CCSA)](https://www.instagram.com/lagid.ufpb/) with the company [MGITech](https://www.mgitech.com.br/) and as AI Researcher of the project [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) in [Embrappi](https://embrapii.org.br/) and [UFPB](https://www.ufpb.br/) partnership project. 
 
-For the future, I have an interest in the area of Data Science or Artifical Intelligence, with a focus on Deep Learning.
+I am a research student at the **Technology and Artificial Intelligence League** ([TAIL](https://aria.ci.ufpb.br/tail/)) in the [UFPB](https://www.ufpb.br/) and **Data Science Intern** at [Nubank](https://nubank.com.br/pedir/nu/)
 
 
 <center> 
