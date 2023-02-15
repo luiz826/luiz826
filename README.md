@@ -18,6 +18,8 @@
 
 - HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated;
 
+- Data Science Intern at [Nubank](https://nubank.com.br/) 
+
 <center> 
 
 ---
