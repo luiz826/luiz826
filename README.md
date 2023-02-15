@@ -12,7 +12,7 @@
 
 - I’m from Brazil
 
-- 20 years
+- 21 years
 
 - [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
