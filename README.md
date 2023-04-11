@@ -27,7 +27,11 @@
 
 </center>
 
-### ***Data Science Intern at [Nubank](https://nubank.com.br/pedir/nu/)*** - Sep 2022-Present
+### ***Machine Learning Engineering Intern at [Nubank](https://nubank.com.br/pedir/nu/)*** - Sep 2022-Present
+
+ - Deployment of ML Batch or Online models
+ - Contributions on the Nubank ETL
+ - Make the integration of data providers into new versions of models 
 
 ### ***AI and Photovoltaic Researcher*** - [Huawei](https://www.huawei.com/br/) Solar Tracking Control (AI Based) - [Huawei](https://www.huawei.com/br/), [UFPB](https://www.ufpb.br/) and [Embrappi](https://embrapii.org.br/) - Feb 2022–Aug 2022
 
@@ -72,7 +76,7 @@ I am a research student at the **Technology and Artificial Intelligence League**
 
 ### <<<_Code_>>> 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 
 ### <<<_Artificial Inteligence and Machine Learning_>>>
@@ -114,8 +118,6 @@ I am a research student at the **Technology and Artificial Intelligence League**
 - [A fan game of Pokemon, in C++](https://github.com/luiz826/Projeto-POO-2) This is a simplicated version of the battles in Pokemon game. We use C++ and OPP to create all the logics and made a very fun game to play. 
  
 - [A Introduction to the DataScience World](https://www.kaggle.com/caiochacon/an-introduction-to-data-science-world) This project was developed as a competition application for the data science website Kaggle. It analyzes, in narrative form, the profile of the data scientist in 2020, in addition to tips on how to start studies for the area, based on data. It was done in partnership.
-
-- [Word cloud of songs by Legião Urbana, deployed by Streamlit](https://share.streamlit.io/luiz826/site_nuvemdepalavraslu/main): The band Legião Urbana was/is very successful in the Brazilian territory, largely because of their unforgettable lyrics. So I developed a website that generates word clouds for each song of the band.
 
 
 - [Olympics Games History](https://github.com/caiochacon/projeto_final_ICD):  This was the final project of the introduction to data science course. This project analyse the history data of the Olympic games. The goal of the project was to present and analyze data from Olympic athletes in order to explore different dimensions of competition using variables such as: gender, nationality, performance, etc. At the end of the analysis, we hope to obtain coherent information capable of presenting something new to the reader.
