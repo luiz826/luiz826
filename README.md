@@ -146,3 +146,5 @@ I am a research student at the **Technology and Artificial Intelligence League**
 
 </center>
 
+ 
+![Snake animation](https://github.com/luiz826/luiz826/blob/output/github-contribution-grid-snake.svg)
