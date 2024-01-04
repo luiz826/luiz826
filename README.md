@@ -27,7 +27,7 @@
 
 </center>
 
-### ***Machine Learning Engineering Intern at [Nubank](https://nubank.com.br/pedir/nu/)*** - Sep 2022-Present
+### ***Junior Machine Learning Engineering at [Nubank](https://nubank.com.br/pedir/nu/)*** - Sep 2022-Present
 
  - Deployment of ML Batch or Online models
  - Contributions on the Nubank ETL
