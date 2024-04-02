@@ -8,17 +8,17 @@
 </center> 
  
 
-- I'm _Data Scientist_ in progress!
+- I'm _MLE_ :]
 
 - I’m from Brazil
 
-- 21 years
+- 22 years
 
 - [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
 
 - HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated;
 
-- Data Science Intern at [Nubank](https://nubank.com.br/) 
+- Machine Learning Engineering at [Nubank](https://nubank.com.br/) 
 
 <center> 
 
