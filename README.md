@@ -31,8 +31,9 @@ Feel free to get in touch for chatting or talk about projects and opportunities.
 
 ## _GitHub Status_
 
-[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz826&show_icons=true&theme=radical)](https://github.com/luiz826/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz826&layout=compact&show_icons=true&theme=radical)](https://github.com/luiz826/)
 
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz826&show_icons=true&theme=radical)](https://github.com/luiz826/)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz826&layout=compact&show_icons=true&theme=radical&hide=jupyter%20notebook)](https://github.com/luiz826/)
 
 </center>
