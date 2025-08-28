@@ -11,9 +11,11 @@
 - I'm _MLE_ or _MLOps_ or _Data Engineering_ :]
 - I’m from Brazil
 - Machine Learning Engineering at [Nubank](https://nubank.com.br/) 
-- HCIA-AI [Huawei](https://www.huawei.com/br/) Certificated;
-- [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) Student at [UFPB](https://www.ufpb.br/)
+- B.S. in [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) at [UFPB](https://www.ufpb.br/)
 - Love to code in Python, C++, Scala. Currently learning Clojure.
+- Love Novos Baianos, Beatles, Jorge Ben, Pink Floyd, etc
+
+Here is my personal [website](https://luiz826.github.io/)!
 
 <center> 
 
@@ -22,10 +24,8 @@
 
 Feel free to get in touch for chatting or talk about projects and opportunities.
 
-[![WebSite](https://img.shields.io/badge/website-8A2BE2)](https://luiz826.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.costa@academico.ufpb.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizfernando1012000@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando632/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://luizfernando1012000.medium.com/)
 
 ---
 
