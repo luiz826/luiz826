@@ -36,4 +36,8 @@ Feel free to get in touch for chatting or talk about projects and opportunities.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz826&layout=compact&show_icons=true&theme=radical&hide=jupyter%20notebook)](https://github.com/luiz826/)
 
+## _Leet Code Status_
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/luiz826?theme=dark&font=IBM%20Plex%20Sans%20Thai)
+
 </center>
