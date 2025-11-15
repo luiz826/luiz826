@@ -1,7 +1,7 @@
 
 <center>
 
-# Hello, I'm Luiz Fernando :]
+# Hello, I'm Luiz Fernando
 
 ## _Welcome to my github page!_
 
