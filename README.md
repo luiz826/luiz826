@@ -10,11 +10,11 @@
 
 - I'm _MLE_ or _MLOps_ or _Data Engineering_ :]
 - I’m from Brazil
-- Machine Learning Engineering at [Nubank](https://nubank.com.br/)
+- Data Scientist, MLOps, Machine Learning Engineering or anthing you need to help the customer at [CloudWalk](https://cloudwalk.io/)
+- Ex Machine Learning Engineering at [Nubank](https://nubank.com.br/)
 - Board member of [Momento](https://momento.sh/)
 - B.S. of [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) at [UFPB](https://www.ufpb.br/)
-- M.S of Computer Science Candidate at [Georgia Tech](https://www.gatech.edu/)
-- Love to code in Python, C++, Scala. Currently learning Clojure.
+- Love to code in Python, C++, Scala.
 - Love Novos Baianos, Beatles, Jorge Ben, Pink Floyd, etc
 
 Here is my personal [website](https://luiz826.github.io/)!
