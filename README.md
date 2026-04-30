@@ -8,13 +8,13 @@
 </center> 
  
 
-- I'm _MLE_ or _MLOps_ or _Data Engineering_ :]
+- I'm _MLE_ or _MLOps_ or _Data_Scientist or _Data Engineering_ :]
 - I’m from Brazil
 - Data Scientist, MLOps, Machine Learning Engineering or anthing you need to help the customer at [CloudWalk](https://cloudwalk.io/)
 - Ex Machine Learning Engineering at [Nubank](https://nubank.com.br/)
-- Board member of [Momento](https://momento.sh/)
+- M.S of [Computer Science](https://cdso.utexas.edu/mscs) at [University of Texas Austin](https://www.utexas.edu/)
 - B.S. of [Artificial Intelligence and Data Scientist](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) at [UFPB](https://www.ufpb.br/)
-- Love to code in Python, C++, Scala.
+- Love to code in Python, C++, Scala, Rust.
 - Love Novos Baianos, Beatles, Jorge Ben, Pink Floyd, etc
 
 Here is my personal [website](https://luiz826.github.io/)!
@@ -37,9 +37,5 @@ Feel free to get in touch for chatting or talk about projects and opportunities.
 [![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz826&show_icons=true&theme=radical)](https://github.com/luiz826/)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz826&layout=compact&show_icons=true&theme=radical&hide=jupyter%20notebook)](https://github.com/luiz826/)
-
-## _Leet Code Status_
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/luiz826?theme=dark&font=IBM%20Plex%20Sans%20Thai)
 
 </center>
