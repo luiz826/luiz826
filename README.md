@@ -11,7 +11,7 @@
 - I'm from Brazil 🇧🇷
 - Data Scientist III at [CloudWalk, Inc.](https://www.cloudwalk.io/)
 - Ex-Machine Learning Engineer at [Nubank](https://nubank.com.br/) (Credit & Platform teams)
-- Master of Science in Computer Science at [The University of Texas at Austin](https://www.utexas.edu/) (incoming, 2026–2028)
+- Master of Science in Computer Science at [The University of Texas at Austin](https://www.utexas.edu/) (in progress, 2026–2028)
 - Bachelor of Science in Data Science and AI at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
 - Love to code in Python, C++, Scala, Rust.
 - Love Novos Baianos, Beatles, Jorge Ben, Pink Floyd, etc
