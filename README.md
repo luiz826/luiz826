@@ -3,13 +3,13 @@
 
 # Hello, I'm Luiz Fernando
 
-## _Data Scientist III @ Cloudwalk | Ex Nubank | MSCS at UT Austin_
+## _Data Science Specialist @ Cloudwalk | Ex Nubank | MSCS at UT Austin_
 
 </center>
 
 - I'm a _Data Scientist_ / _MLE_ / _MLOps_ — anything data & ML that helps the customer :]
 - I'm from Brazil 🇧🇷
-- Data Scientist III at [CloudWalk, Inc.](https://www.cloudwalk.io/)
+- Data Science Specialist at [CloudWalk, Inc.](https://www.cloudwalk.io/)
 - Ex-Machine Learning Engineer at [Nubank](https://nubank.com.br/) (Credit & Platform teams)
 - Master of Science in Computer Science at [The University of Texas at Austin](https://www.utexas.edu/) (in progress, 2026–2028)
 - Bachelor of Science in Data Science and AI at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/)
@@ -28,4 +28,5 @@ Feel free to get in touch for chatting or talk about projects and opportunities.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernando1012000@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfernando632/)
+
 </center>
